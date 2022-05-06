@@ -2,7 +2,7 @@
 description: CURU-kor
 ---
 ##  1. Problem definition
-* 망막은 비침습적으로 심혈관계(cardiovascular system)를 관찰할 수 있는 유일한 조직(tissue)이다. 
+* 망막은 비침습적으로 심혈관계(cardiovascular system)를 관찰할 수 있는 유일한 조직(tissue)이. 
 * 이를 통해 심혈관 질환의 발달과 미세혈관의 형태변화와 같은 구조를 파악할 수 있다.
 * 이미지 분할(Image Segmentation)을 통해 상기된 형태적 데이터를 획득 한다면 안과 진단에 중요한 지표가 될수 있다.
 * 본 연구에서는, U-Net(및 Residual U-net) 모델을 활용하여 복잡한 망막 이미지(영상)으로 부터 혈관을 분할(segmentation)하고자 한다.   
