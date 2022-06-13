@@ -4,7 +4,7 @@ description: CURU-kor
 ##  1. Problem definition
 
 * 오직 망막에서만 심혈관계(cardiovascular system)를 비침습적으로 관찰 가능한데
-* 이를 통해 심혈관 질환의 발달과 미세혈관의 형태변화와 같은 정보를 얻을 수 있다. 
+* 이를 통해 심혈관 질환의 발달과 미세혈관의 형태변화와 같은 정보를 얻을 수 있다.  
 * 또 이를 안과 진단에 중요한 지표인데
 * 본 연구에서는, U-Net(+ Residual U-net) 모델을 활용해 망막 이미지로부터 혈관에 해당하는 픽셀들을 구분한다.(Image Segmentation)
 * 이로 부터 혈관들의 [형태학적 데이터](https://scikit-image.org/docs/dev/api/skimage.measure.html#skimage.measure.regionprops)를 획득한다.
