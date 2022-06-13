@@ -39,7 +39,7 @@ This study proposes a structure which the **U-Net** and **U-Net with residual bl
 
 
 ## 3. Method
-The workflow of this study is as follows.
+The workflow of this study is as follows. 
 
 1. Image acquisition 
   - Collect retinal pictures.
